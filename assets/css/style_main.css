@@ -38,6 +38,9 @@ body{
     margin: 10px;
     font-size: 30px;
 }
+.intro p a{
+    text-decoration: none;
+}
 
 .intro{
     background: #1d2630;
