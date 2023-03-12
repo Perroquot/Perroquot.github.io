@@ -1,0 +1,122 @@
+body{
+    font-family: sans-serif;
+    margin: 0;
+    background-color: black;
+}
+
+.container{
+    background: #1d2630;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.text{
+    color: white;
+    margin-bottom: 25px;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+a:link{
+    text-decoration: none;
+}
+
+.loading{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loading .line-box{
+    padding: 2px;
+    width: 40%;
+    height: 20px;
+    border: 2px solid #267591;
+    border-radius: 20px;
+}
+
+.loading .line-box .line{
+    height: 20px;
+    border-radius: 20px;
+    background: #67D295 ;
+    animation: loading 2s forwards cubic-bezier(0,0,0,0);
+}
+
+
+@keyframes loading{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 100%;
+    }
+}
+
+.button{
+    border: none;
+    display: block;
+    text-align: center;
+    cursor: pointer;
+    text-transform: uppercase;
+    outline: none;
+    overflow: hidden;
+    position: relative;
+    color: #eeeeee;
+    font-weight: 600;
+    font-size: 15px;
+    background-color: #1d2630;
+    padding: 15px 50px;
+    margin: 0 auto;
+    border: 2px solid #267591;
+    margin-top: 5vh;
+    border-radius: 10px;
+}
+
+.button span{
+    position: relative;
+    z-index: 1;
+}
+
+.button:after {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 470%;
+    width: 140%;
+    background: #52b71f;
+    -webkit-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+    -webkit-transform: translateX(-100%) translateY(-25%) rotate(45deg);
+    transform: translateX(-100%) translateY(-25%) rotate(45deg);
+}
+
+.button:hover:after {
+    -webkit-transform: translateX(-9%) translateY(-25%) rotate(45deg);
+    transform: translateX(-9%) translateY(-25%) rotate(45deg);
+  }
+
+.hide {
+    display: none;
+  }
+
+nav a:link {
+    color: white;
+}
+    
+nav a:visited {
+    color: white;
+}
+    
+nav a:hover {
+    color: white;
+}
+
+nav a:active {
+    color: white;
+}
