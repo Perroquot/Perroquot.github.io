@@ -19,16 +19,23 @@ body{
 }
 
 .image1 img {
-    width: 40%;
+    width: 70%;
     margin-left: 50px;
 }
 
 .image2 img {
-    width: 40%;
+    width: 70%;
     margin-left: 50px;
 }
 
 .firstelement{
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
+}
+
+.intro{
+    background: #1d2630;
+    width: 100%;
+    min-height: 10vh;
+    border: 2px solid #267591;
 }
