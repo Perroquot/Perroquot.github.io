@@ -18,6 +18,17 @@ body{
     justify-content: center;
 }
 
-.image1 {
-    width: 60%;
+.image1 img {
+    width: 40%;
+    margin-left: 50px;
+}
+
+.image2 img {
+    width: 40%;
+    margin-left: 50px;
+}
+
+.firstelement{
+    display: flex;
+    justify-content: center;
 }
