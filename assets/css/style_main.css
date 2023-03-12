@@ -3,3 +3,12 @@ body{
     margin: 0;
     background-color: #1d2630;
 }
+
+.welcome{
+    color: white;
+    margin-bottom: 25px;
+    font-size: 30px;
+    letter-spacing: 2px;
+    display: flex;
+    justify-content: center;
+}
