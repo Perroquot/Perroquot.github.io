@@ -18,11 +18,11 @@ video{
 body{
     font-family: sans-serif;
     margin: 0;
-    background: #1d2630;
+    background-clip: url("/assets/img/fondanimeintro.mp4");
 }
 
 .container{
-    background: #1d2630;
+    background-clip: url("/assets/img/fondanimeintro.mp4");
     width: 100%;
     min-height: 100vh;
     display: flex;
