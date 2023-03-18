@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'SNK';
+    src: url("/assets/font/AlphabetSNK.ttf") format("truetype");
+}
+
 body{
     font-family: sans-serif;
     margin: 0;
@@ -19,9 +24,16 @@ body{
     margin-bottom: 25px;
     font-size: 20px;
     letter-spacing: 2px;
+    font-family: 'SNK';
 }
-a:link{
+a{
     text-decoration: none;
+    color: black;
+}
+span{
+    color: white;
+    font-family: 'SNK';
+    letter-spacing: 5px;
 }
 
 .loading{

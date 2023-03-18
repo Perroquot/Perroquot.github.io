@@ -70,9 +70,7 @@ body{
     text-decoration: none;
     color: black;
 }
-.article p{
-    
-}
+
 .article2 a{
     display: flex;
     flex-direction: column;
