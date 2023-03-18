@@ -58,29 +58,36 @@ body{
     padding : 8vh;
     font-family: 'SNK';
     font-size: 2vh;
+    text-decoration: none;
 }
 
-.article1{
+.article1 a{
     display: flex;
     flex-direction: column;
     width: 25vh;
     position: relative;
     text-align: center;
+    text-decoration: none;
+    color: black;
 }
 .article p{
     
 }
-.article2{
+.article2 a{
     display: flex;
     flex-direction: column;
     width: 25vh;
     position: relative;
     text-align: center;
+    text-decoration: none;
+    color: black;
 }
-.article3{
+.article3 a{
     display: flex;
     flex-direction: column;
     width: 25vh;
     position: relative;
     text-align: center;
+    text-decoration: none;
+    color: black;
 }
