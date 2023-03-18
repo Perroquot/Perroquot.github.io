@@ -37,6 +37,7 @@ body{
     font-family:'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif ;
     margin: 10px;
     font-size: 30px;
+    color: gray;
 }
 .intro p a{
     text-decoration: none;
@@ -48,4 +49,34 @@ body{
     min-height: 10vh;
     border: 2px solid #267591;
     border-radius: 10px;
+}
+
+.article{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding : 8vh;
+    font-family: 'SNK';
+    font-size: 2vh;
+}
+
+.article1{
+    display: flex;
+    flex-direction: column;
+    width: 25vh;
+    position: relative;
+    text-align: center;
+}
+.article p{
+    
+}
+.article2{
+    display: flex;
+    flex-direction: column;
+    width: 25vh;
+}
+.article3{
+    display: flex;
+    flex-direction: column;
+    width: 25vh;
 }
