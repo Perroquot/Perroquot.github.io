@@ -6,16 +6,18 @@ body{
     font-family: sans-serif;
     margin: 0;
     background-color: #1d2630;
+    overflow-x: hidden;
+    overflow-y: hidden;
 }
 
 .welcome{
     font-family: 'SNK';
     color: white;
-    margin-bottom: 25px;
     font-size: 30px;
     letter-spacing: 8px;
     display: flex;
     justify-content: center;
+    margin-bottom: -15px;
 }
 
 .image1 img {
@@ -41,6 +43,7 @@ body{
 }
 .intro p a{
     text-decoration: none;
+    color: cyan;
 }
 
 .intro{
@@ -100,4 +103,9 @@ video
     z-index: -1;
     height: 100%;
     width: 100%;
+}
+.music{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
 }

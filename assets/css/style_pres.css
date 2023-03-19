@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'SNK';
+    src: url("/assets/font/AlphabetSNK.ttf") format("truetype");
+}
+body{
+    font-family: sans-serif;
+    margin: 0;
+    background-color: #1d2630;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+video{
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+    height: 100%;
+    width: 100%;
+}
+.intro{
+    display: flex;
+    justify-content: center;
+    font-family: 'SNK';
+    font-size: 7vh;
+    color: white;
+}
