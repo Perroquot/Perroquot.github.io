@@ -31,31 +31,5 @@ video{
 main{
     display: flex;
     justify-content: center;
-}
-.container{
-    width: 100vh;
-    min-height:100vh ;
-    background-image: url("/assets/img/manuscrit_vide.png");
-    background-repeat: no-repeat;
-    background-size: 100vh;
-    display: flex;
-    justify-content: center;
     flex-direction: column;
-    margin-bottom: 5vh;
-}
-.introcontainer{
-    padding-top: 10vh;
-    font-family:'Courier New', Courier, monospace;
-    font-size: 30px;
-}
-
-.pres1{
-    display: flex;
-    flex-direction: row;
-    /* justify-content: center; */
-    width: 10vh;
-}
-
-.pres1 img{
-    width: 10vh;
 }
