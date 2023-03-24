@@ -62,6 +62,8 @@ body{
     font-family: 'SNK';
     font-size: 2vh;
     text-decoration: none;
+    margin: -8px;
+    
 }
 
 .article1 a{
@@ -107,5 +109,6 @@ video
 .music{
     display: flex;
     justify-content: center;
-    padding-bottom: 20px;
+    padding-bottom : 20px;
+    position: sticky;
 }
