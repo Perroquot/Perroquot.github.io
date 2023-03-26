@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'SNK';
+    src: url("/assets/font/AlphabetSNK.ttf") format("truetype");
+}
+body{
+    font-family: sans-serif;
+    margin: 0;
+    background-color: #1d2630;
+}
+video{
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+    height: 100%;
+    width: 100%;
+}
+.IntroHistoire{
+    font-family: 'SNK';
+    color: black;
+    font-size: 30px;
+    letter-spacing: 8px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: -15px;
+}
+.container{
+    width: 52vh;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
