@@ -31,6 +31,7 @@ content_page2 = [
     `,
 ];
 
+
 function PageSuivante(nb) {
     document.getElementById("page1").innerHTML = content_page1[nb - 1];
     document.getElementById("page2").innerHTML = content_page2[nb - 1];
