@@ -1,12 +1,9 @@
 content_page1 = [
-    `<h3><strong>Bumringhton Azrael</strong></h3><img src="public/img/Apparence.jpg" style="width: auto;height: 75%;" alt="">`,
+    `<h3><strong>Chapitre 0 : Introduction</strong></h3><p>Alors que la grande guerre des titans faisait rage, le roi Karl Fritz, après avoir hérité du Titan Originel, décida d'abandonner le conflit et de relocaliser son peuple vers l'île de Paradis. Et alors que les mahrs décidait de comment transférer les Titans primordiaux, une famille décida de fuir anonymement avec le reste du peuple Eldien. Les Strauss, la famille détenant le titan Assailant. Cette famille avait déjà fait en sorte d'éviter un maximum le conflit afin d'éviter de perdre ce Titan si important à leurs yeux. Ayant pris soin de prendre le necessaire, soit du liquide cérébrospinale, ils brûlèrent toutes les connaissances sur le Titan Assaillant inscrit dans des manuscrits. Puis ils partirent en faisant attention à ce que personne ne les suivent. une fois arrivés sur Paradis avec tout les autres Eldiens. ils décidèrent de se donner un nouveau nom de famille afin que les Fritz ne les reconnaissent pas : Les Vurst.</p>`,
     `
-    <h3><strong>10 Mars XXX</strong></h3>
-        <p>Aujourd'hui mère m'as offert ce carnet, je suis très heureux, depuis que j'ai appris à écrire j'ai toujours souhaité obtenir de quoi m'exprimer, et de cette façon je pense pouvoir m'exprimer</p> 
-    <h3><strong>11 Mars XXX</strong></h3>
-    <p>Apres etre devenue le major de ma promo je suis rentrer dans le BDE et le CPT ma offert de la viande!Vous vous rendez compte de la VIANDE, ça doit faire au moins 100 siècle que je n'en es pas manger, je suis vraiment heureux, je ne dis pas que la soupe et le pain ne me satisfait pas, c'est juste que manger de la nourriture plus cher c'est souvent meilleurs.</p>
-    <h3><strong>12 Mars XXX</strong></h3>
-    <p>Aujourd'hui nous sommes partit en entrainement,et j'ai battut Werner vous vous rendez WERNER ! Le meilleur a l'épée, moi le petit Azrael battre le meilleur."</p>
+    <p>Elle avait cependant fini par mettre en pause ses activités pour s'occuper de son fils.</p>
+    <h3><strong>Chapitre 2 : Enfance</strong></h3>
+    <p>Test</p>
     <button onclick="PageSuivante(1)">Page Précedente</button></div>
     `,
     `
@@ -21,7 +18,7 @@ content_page1 = [
     `,
 ];
 content_page2 = [
-    `<h3><strong>Identité</strong></h3><br><p>Nom: Burminghton</p><p>Prenom: Azrael</p><br><p>Lieux de Naissance: Shiganshina</p><p>Date de Naissance: 29 Decembre XXX</p><p>Age: 21 ans</p><br><p>Numéro D'identité: 4929 1049 6131 4085</p><p>Nombre de frère et soeurs: Fils Unique</p><br><p>Lieux de Résidence: Shiganshina</p><p>Evenement Notable:</p><dd> - N/A</dd><img style="width: auto; height: 30%;" src="public/img/Tampon-BS.jpg" alt=""><br><div class="flex-box"><button onclick="PageSuivante(2)">Page Suivante</button></div>`,
+    `<h3><strong>Chapitre 1 : Trystan Vurst</strong></h3><br><p>Trystan était né le 26 septembre de l'an 830 dans le village de Dauper, un petit village de chasseur dans l'enceinte du Mur Rose. En parlant de chasseur, il est issue lui aussi d'une famille de chasseur, mise à part son Grand père, Marco Klaussmann qui avais servi dans l'armée au sein du bataillon d'Exploration jusqu'au grade d'Adjudant et qui avais fait partie des premiers soldats à porter un équipement tridimensionnel et à éliminer un Titan. Son père, Thomas Vurst, se rendait régulièrement à Trost afin de vendre les produits de la chasse tel que les peaux de bêtes, ou encore la viande ou tout autres produit pouvant être vendu. Sa mère était médecin, elle avait comme réputation de toujours soigner parfaitement bien avec une excellente connaissance des plantes médecinale,</p><br><div class="flex-box"><button onclick="PageSuivante(2)">Page Suivante</button></div>`,
     `
     <h3><strong>13 Mars XXX</strong></h3>
     <p> Aujourd'hui,je suis partit en entrainement avec le BDE,nous somme monter dans les hauteur du camps d'entrainement et nous nous somme entrainer a l'épée,mais ne vous inquitez pas le petit Azrael n'est plus le meme je suis devenue bien plus fort qu'avant j'ai d'ailleur battut Werner en combat.</p>
