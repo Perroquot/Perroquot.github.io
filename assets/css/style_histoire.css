@@ -223,7 +223,8 @@ a {
     perspective: 4000px;
     -webkit-perspective-origin: 50% 0%;
     perspective-origin: 50% 0%;
-    margin-bottom: -5vh;
+    margin-bottom: -10vh;
+    margin-top: -10vh;
 }
 
 .book-wrap {
@@ -777,7 +778,17 @@ button:hover {
     box-shadow: 2px 8px 4px -6px hsla(0, 0%, 0%, .3);
 }
 
-.button{
+a{
+    text-decoration: none;
+    
+}
+.retour{
+    margin-bottom: 2vh;
+    display: flex;
+    justify-content: center;
+}
+
+.button-leave{
     border: none;
     display: block;
     text-align: center;
@@ -793,14 +804,5 @@ button:hover {
     padding: 15px 50px;
     margin: 0 auto;
     border: 2px solid #267591;
-    margin-top: 5vh;
     border-radius: 10px;
-}
-
-a{
-    text-decoration: none;
-    
-}
-.retour{
-    margin-bottom: 2vh;
 }
