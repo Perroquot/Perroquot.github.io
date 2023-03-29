@@ -223,7 +223,7 @@ a {
     perspective: 4000px;
     -webkit-perspective-origin: 50% 0%;
     perspective-origin: 50% 0%;
-    margin-bottom: -10vh;
+    margin-bottom: 1vh;
     margin-top: -10vh;
 }
 
