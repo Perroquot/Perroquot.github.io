@@ -7,11 +7,8 @@ content_page1 = [
     <button onclick="PageSuivante(1)">Page Précedente</button></div>
     `,
     `
-    <h3><strong>15 Mars XXX</strong></h3>
-    <p>Le capitaine m'a tester c'est bien ce que je pensais j'ai une seconde personalité elle se developpe a chaque fois que je suis en danger ou alors que mes amis le sont!il compte sur moi je ne vais pas le decevoir.
-    <h3><strong>16 Mars XXX</strong></h3>
-    <p> Aujourd'hui c'etait mon jours de repos j'en est donc profiter pour aller dans les cartier chaud rendre visite a mon pere...il est un peu comme moi mais il est beaucoup plus courageux,je lui est posé des question sur ma double personalité,il m'a dit qu'il ne voulait pas m'en parler et que je devais trouver tous seul.</p>
-    <img src="public/img/photo.jpg" style="width: auto;height: 30%;" alt="">
+    <h3><strong>Chapitre 3 : </strong></h3>
+    <p>Test</p>
     <button onclick="PageSuivante(2)">Page Précedente</button></div>
     `,
     `
@@ -26,7 +23,7 @@ content_page2 = [
     </div>
     `,
     `
-    <p> Mon but est maitenant de rejoindre l'escouade commando pour prouver ma force a tout le monde et devenir le 2eme a tuer un titans !</p>
+    <p>Mon but est maitenant de rejoindre l'escouade commando pour prouver ma force a tout le monde et devenir le 2eme a tuer un titans !</p>
     `,
 ];
 

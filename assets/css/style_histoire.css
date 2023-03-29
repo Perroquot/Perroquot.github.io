@@ -223,7 +223,7 @@ a {
     perspective: 4000px;
     -webkit-perspective-origin: 50% 0%;
     perspective-origin: 50% 0%;
-    margin-bottom: 1vh;
+    margin-bottom: -3vh;
     margin-top: -10vh;
 }
 
@@ -805,8 +805,9 @@ a{
     margin: 0 auto;
     border: 2px solid #267591;
     border-radius: 10px;
+    
 }
 
 .p-special1 {
-    padding-bottom: 2vh ;
+    padding-bottom: 6vh ;
 }
