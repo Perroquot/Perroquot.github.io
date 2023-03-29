@@ -806,3 +806,7 @@ a{
     border: 2px solid #267591;
     border-radius: 10px;
 }
+
+.p-special1 {
+    padding-bottom: 2vh ;
+}
