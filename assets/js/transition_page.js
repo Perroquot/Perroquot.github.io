@@ -7,8 +7,8 @@ content_page1 = [
     <button onclick="PageSuivante(1)">Page Précedente</button></div>
     `,
     `
-    <h3><strong>Chapitre 3 : </strong></h3>
-    <p>Test</p>
+    <h3><strong>Chapitre 3 : Le grand départ</strong></h3>
+    <p>Trystan venait d'atteindre la barre des 12 ans soit l'âge requis pour rejoindre l'armée</p>
     <button onclick="PageSuivante(2)">Page Précedente</button></div>
     `,
     `
