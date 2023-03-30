@@ -8,14 +8,15 @@ content_page1 = [
     `,
     `
     <h3><strong>Chapitre 3 : Le grand départ</strong></h3>
-    <p>Trystan venait d'atteindre la barre des 12 ans soit l'âge requis pour rejoindre l'armée</p>
-    <button onclick="PageSuivante(2)">Page Précedente</button></div>
+    <div class="p-special2"><p>Trystan venait d'atteindre la barre des 12 ans soit l'âge requis pour rejoindre l'armée et il décida donc de prévenir ses parents de son choix final il ne voulait pas détourner de son objectif, le bataillon d'exploration était sa priorité. Le soir, pendant le diner, il se leva et annonça la nouvelle à ses parents. Leurs réactions mirent du temps à arriver, loin d'être étonnant, ils savaient depuis longtemps qu'il souhaitait rejoindre le bataillon, et force d'avoir tenter de le raisonner, en vain, ils avaient fini par accepter, cependant, sa mère lui demanda une condition afin qu'elle accepte sa demande, si Trystan arrivait dans le top 10 de sa promotion et donc qu'il avait la possibilité de rejoindre les brigades Spéciales, il devrait rejoindre ce régiment. Au bout de plusieurs minutes de réflexion, Trystan accepta la conditions et il partit directement préparer ses affaires.</p></div>    
+        <button onclick="PageSuivante(2)">Page Précedente</button>
+    </div>
     `,
     `
     `,
 ];
 content_page2 = [
-    `<h3><strong>Chapitre 1 : Trystan Vurst</strong></h3><br><p>Trystan était né le 26 septembre de l'an 830 dans le village de Dauper, un petit village de chasseur dans l'enceinte du Mur Rose. En parlant de chasseur, il est issue lui aussi d'une famille de chasseur, mise à part son Grand père, Marco Klaussmann qui avais servi dans l'armée au sein du bataillon d'Exploration jusqu'au grade d'Adjudant et qui avais fait partie des premiers soldats à porter un équipement tridimensionnel et à éliminer un Titan. Son père, Thomas Vurst, se rendait régulièrement à Trost afin de vendre les produits de la chasse tel que les peaux de bêtes, ou encore la viande ou tout autres produit pouvant être vendu. Sa mère était médecin, elle avait comme réputation de toujours soigner parfaitement bien avec une excellente connaissance des plantes médecinale.</p><br><div class="flex-box"><button onclick="PageSuivante(2)">Page Suivante</button></div>`,
+    `<h3><strong>Chapitre 1 : Trystan Vurst</strong></h3><br><div class="p-special0"><p>Trystan était né le 26 septembre de l'an 830 dans le village de Dauper, un petit village de chasseur dans l'enceinte du Mur Rose. En parlant de chasseur, il est issue lui aussi d'une famille de chasseur, mise à part son Grand père, Marco Klaussmann qui avais servi dans l'armée au sein du bataillon d'Exploration jusqu'au grade d'Adjudant et qui avais fait partie des premiers soldats à porter un équipement tridimensionnel et à éliminer un Titan. Son père, Thomas Vurst, se rendait régulièrement à Trost afin de vendre les produits de la chasse tel que les peaux de bêtes, ou encore la viande ou tout autres produit pouvant être vendu. Sa mère était médecin, elle avait comme réputation de toujours soigner parfaitement bien avec une excellente connaissance des plantes médecinale.</p></div><br><div class="flex-box"><button onclick="PageSuivante(2)">Page Suivante</button></div>`,
     `
     <p class="p-special1">Plus le temps passait, plus Trystan grandissait à vue d'oeil, ses cheveux abordés une teinte bien plus noire, et il était possible de remarquer nettement que la couleur de ses yeux était verte avec un petite lueur de bleu. Trystan n'avais pas énormément d'amis, mise à part son meilleur ami actuellement, Heinz Schnitzer, Heinz venait du village de Ragako, ils se connaissaient car Marco Klaussmann et Werner Schnitzer, le grand père de Heinz étaient amis et camarade dans le bataillon d'exploration. Heinz venait donc de temps en temps au village de Dauper pour voir Trystan et Trystan de temps en temps se rendait au village de Ragako, ce qui lui permettait de voyager un minimum et de ne plus se sentir enfermer dans sa forêt comme il en avais l'habitude. Les deux amis n'avais qu'un seul point en commun, ils voulaient touts les deux rejoindre le Bataillon d'exploration, le reste, ils diffèrent complétement puisqu'Heinz avait un physique bien plus solide que celui de Trystan.</p>
     <div class="flex-box">
@@ -23,7 +24,7 @@ content_page2 = [
     </div>
     `,
     `
-    <p>Mon but est maitenant de rejoindre l'escouade commando pour prouver ma force a tout le monde et devenir le 2eme a tuer un titans !</p>
+    <p> Pendant qu'il était entrain de les préparer, son père toqua à sa porte et lui demanda de le suivre, la suite, il ne s'en souviendra pas. <a href="/spinoff.html">(Voir le spin-off)</a> </p>
     `,
 ];
 
