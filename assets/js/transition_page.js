@@ -24,10 +24,11 @@ content_page2 = [
     </div>
     `,
     `
-    <p> Pendant qu'il était entrain de les préparer, son père toqua à sa porte et lui demanda de le suivre, la suite, il ne s'en souviendra pas. <a href="/spinoff.html">(Voir le spin-off)</a> </p>
+    <p class="p-special50"> Pendant qu'il était entrain de les préparer, son père toqua à sa porte et lui demanda de le suivre, la suite, il ne s'en souviendra pas. <a href="/spinoff.html">(Voir le spin-off)</a> </p>
     
     <p>Trystan se reveilla doucement, du au fait qu'il avait l'impression de bouger dans tout les sens, une fois les yeux complétement ouvert, il remarqua qu'il était dans une charette, hors, il ne se rappel pas avoir monté dans une charette, en fait, il ne se rappel plus de rien depuis hier soir, le seul truc dont il se rappelait, c'était d'avoir suivi don père après qu'il eut appelé. Trystan mis la tête en dehors de la charrette et remarqua au loin le district de Shiganshina. L'aventure allait enfin pouvoir commencé...</p></br>
-    <h3><strong><center>Fin</center></strong></h3>
+    <div class="plan-shiganshina"><center><video preload="true" autoplay="" muted="" loop="" playsinline="" poster="./assets/img/bg5.png" data-testid="space:video"><source src="./assets/img/videotrystan1.mp4" type="video/mp4"></video></div></center>
+    <h3><strong><center>Fin.</center></strong></h3>
     `,
 ];
 

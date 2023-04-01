@@ -7,7 +7,7 @@ body{
     margin: 0;
     /* background-color: #1d2630; */
 }
-video{
+.video-background video{
     object-fit: cover;
     position: fixed;
     left: 0;
@@ -224,7 +224,7 @@ a {
     -webkit-perspective-origin: 50% 0%;
     perspective-origin: 50% 0%;
     margin-bottom: -3vh;
-    margin-top: -10vh;
+    margin-top: -15vh;
 }
 
 .book-wrap {
@@ -816,4 +816,15 @@ a{
 }
 .p-special0{
     padding-bottom: 1.9vh;
+}
+
+.plan-shiganshina video{
+    /* left: 0; */
+    /* right: 0; */
+    /* top: 0; */
+    /* bottom: 0; */
+    z-index: -1;
+    height: 40%;
+    width: 80%;
+    display: flex;
 }
