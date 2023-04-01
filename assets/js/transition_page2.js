@@ -12,7 +12,7 @@ content_page1 = [
     </div>
     `,
     `
-    Et pour lui, il était impensable que Trystan hérite de ce Titan qu'il nomme maudit, de par sa capacité à apercevoir des brides de souvenirs de son successeur. Pendant plusieurs jours, il débattait avec ses parents ainsi que des membres de la branche secondaire pour savoir qui devait hérité du Titan, et au final Thomas pris la décision d'en hériter la charge, il ne faisait ça que pour ajouter des années de vie supplémentaire à son fils...<br><br>
+    Et pour lui, il était impensable que Trystan hérite de ce Titan qu'il nomme maudit, de par sa capacité à apercevoir des brides de souvenirs de son successeur. Pendant plusieurs jours, il débattait avec ses parents ainsi que des membres de la branche secondaire pour savoir qui devait hérité du Titan, et au final Thomas pris la décision d'en hériter la charge, il ne faisait ça que pour ajouter des années de vie supplémentaire à son fils...<br><br> Les années passaient, Trystan grandissaient à vue d'œil, il allait atteindre l'âge de 10 ans
     <button onclick="PageSuivante(3)">Page Précedente</button>
     `,
 ];
