@@ -1,5 +1,6 @@
 content_page1 = [
-    `<h3><strong>Partie 1 : Marco Klaussmann</strong></h3><p></p>`,
+    `<h3><strong>Partie 1 : Marco Klaussmann</strong></h3>
+    <p>En l'an 792, Marco venait de rentré de la dernière expédition avec le reste du bataillon. Il avait réussi, </p>`,
     `
     <p>Elle avait cependant fini par mettre en pause ses activités pour s'occuper de son fils.</p>
     <h3><strong>Chapitre 2 : Enfance</strong></h3>
