@@ -23,7 +23,12 @@ content_page2 = [
     </div>
     `,
     `
-    <p> Pourquoi ne pas utiliser ce pouvoir contre les Titans et enfin l'emporter sur eux. Il posa cette question à Klément qui lui répondit calmement que ce serait trop dangereux</p>
+    <p> Pourquoi ne pas utiliser ce pouvoir contre les Titans et enfin l'emporter sur eux. Il posa cette question à Klément qui lui répondit calmement que ce serait trop dangereux pour l'humanité de montrer ce pouvoir en publique. Klément répondit aux restes des questions et ajouta qu'il connaitrait le reste plus tard si il le souhaité, par contre il instaura la condition suivante, il ne devait en parler à personne en dehors de la famille, sinon de graves répercussions pourraient avoir lieux pour l'humanité. Après ces évenements, Les Klaussmann s'installèrent avec les Vurst, Clémence se marria avec Thomas et quelques années plus tard, Trystan était né.</p>
+    <h3><strong>Partie 2 : Thomas Vurst</strong></h3>
+    <p>En l'an 834, soit 2 ans après la naissance de Trystan, Thomas commencé à ce poser des questions, il venait d'apprendre que le longévité d'une personne détenant un Titan était de 7 ans, et de plus, il venait d'apprendre que la <a href="https://docs.google.com/document/d/1gFXu4sTjWoni_PeYWp0GF5QPrN7m1ojpffFn_bUsRCE/edit?usp=sharing" target="_blank">Branche secondaire</a> venait de perdre </p>
+    <div class="flex-box">
+        <button onclick="PageSuivante(4)">Page Suivante</button>
+    </div>  
     `,
 ];
 
