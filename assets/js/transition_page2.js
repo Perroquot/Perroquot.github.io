@@ -1,6 +1,6 @@
 content_page1 = [
     `<h3><strong>Partie 1 : Marco Klaussmann</strong></h3>
-    <p>En l'an 792, Marco venait de rentré de la dernière expédition avec le reste du bataillon. Il avait réussi à éliminer quelques titans avec le nouvel équipement créé par Jonathan Belmont, malheuresement, le bataillon avait perdu pas mal d'effectif notamment des amis pour Trystan comme Azrael. Après l'expédition, il se consacra à former les nouvelles recrues du bataillon notemment avec l'équipement, puisque celui-ci fut démocratiser et au fil du temps donner à tout les soldats. Pendant 3 ans, il continuait de faire son travail de sous-officier jusqu'a passer Adjudant, il avais repris d'ailleurs complétement la section des éclaireurs suite au départ du 2dn Lieutenant Konrad Steinritter. C'est lors d'une expédition qui était de trop pour lui qu'il décida de quitter l'armée pour se concentrer sur sa vie, c'était d'ailleurs pendant cette expédition que le major Baggy Blutbach mourru après avoir sauvé Mustang. Après son départ, il retourna à son district d'origine, le district de Trost, c'est là qu'il rencontra, celle qui allait devenir sa femme jusqu'a la fin de sa vie : Julia Kleiner.</p>`,
+    <p>En l'an 794, Marco venait de rentré de la dernière expédition avec le reste du bataillon. Il avait réussi à éliminer quelques titans avec le nouvel équipement créé par Jonathan Belmont, malheuresement, le bataillon avait perdu pas mal d'effectif notamment des amis pour Trystan comme Azrael. Après l'expédition, il se consacra à former les nouvelles recrues du bataillon notemment avec l'équipement, puisque celui-ci fut démocratiser et au fil du temps donner à tout les soldats. Pendant 3 ans, il continuait de faire son travail de sous-officier jusqu'a passer Adjudant, il avais repris d'ailleurs complétement la section des éclaireurs suite au départ du 2dn Lieutenant Konrad Steinritter. C'est lors d'une expédition qui était de trop pour lui qu'il décida de quitter l'armée pour se concentrer sur sa vie, c'était d'ailleurs pendant cette expédition que le major Baggy Blutbach mourru après avoir sauvé Mustang. Après son départ, il retourna à son district d'origine, le district de Trost, c'est là qu'il rencontra, celle qui allait devenir sa femme jusqu'a la fin de sa vie : Julia Kleiner.</p>`,
     `
     <p>C'était lors du 14ème anniversaire de Clémence que Marco et sa petite famille fît la recontre de la famille qui allait boulversé sa vie. En effet, pendant cette journée, alors qu'ils se promenaient à la lisière de la forêt, un jeune adolescent surgit brusquement de la forêt, entrain d'essayer de poursuivre un lapin, en vain. A vue d'œil, Marco aurait dit qu'il avait à peu près le même âge que Clémence. Quand le garçon se rendit compte qu'il venait d"effrayer trois personnes en déboulant comme ceci, il s'excusa et ajouta quelques mots : </p><br> <div class="dialogue">"Désolé de vous avoir fait peur comme cela, j'étais en pleine chasse et je n'avais même pas remarqué que j'étais à la lisière de la forêt, je me nomme Thomas Vurst, enchanté de faire votre connaissance."</div><br><br><p> "Vurst", se nom rappelait quelque chose à Marco, il en avait déjà entendu parler au village, c'est une famille qui habite en plein milieu de la forêt, elle reste assez distante du reste du village mais n'en est pas moins très sympathique et agréable quand on parle avec ses membres.</p>
     <button onclick="PageSuivante(1)">Page Précedente</button></div>
@@ -12,7 +12,11 @@ content_page1 = [
     </div>
     `,
     `
-    Et pour lui, il était impensable que Trystan hérite de ce Titan qu'il nomme maudit, de par sa capacité à apercevoir des brides de souvenirs de son successeur. Pendant plusieurs jours, il débattait avec ses parents ainsi que des membres de la branche secondaire pour savoir qui devait hérité du Titan, et au final Thomas pris la décision d'en hériter la charge, il ne faisait ça que pour ajouter des années de vie supplémentaire à son fils...<br><br> Les années passaient, Trystan grandissaient à vue d'œil, il allait atteindre l'âge de 10 ans
+    <p>Et pour lui, il était impensable que Trystan hérite de ce Titan qu'il considère maudit, de par sa capacité à apercevoir des brides de souvenirs de son successeur. Pendant plusieurs jours, il débattait avec ses parents ainsi que des membres de la branche secondaire pour savoir qui devait hérité du Titan, et au final Thomas pris la décision d'en hériter la charge, il ne faisait ça que pour ajouter des années de vie supplémentaire à son fils...<br><br> Les années passèrent, Trystan grandissaient à vue d'œil, il allait atteindre l'âge de 10 ans et il ressemblait déjà beaucoup à Marco, ce dernier était d'ailleurs mort de vieillesse il y'a peu. Trystan avais déjà fait part à Thomas de son envie de rejoindre le bataillon, il s'était donc posé la question de savoir si Trystan était le bon, jusqu'a à un soir, alors qu'il se promenait dans la forêt, un mal de crâne le frappa et il eu comme une sorte de vision, bien plus loin dans le futur, il compris directement, il voyait là des souvenirs de Trystan (Aucunes informations sur les souvenirs, puisqu'il faudra attendre le RP pour en avoir).</p>
+    <button onclick="PageSuivante(3)">Page Précedente</button>
+    `,
+    `
+    <p>Test</p>
     <button onclick="PageSuivante(3)">Page Précedente</button>
     `,
 ];
@@ -27,12 +31,20 @@ content_page2 = [
     `
     <p> Pourquoi ne pas utiliser ce pouvoir contre les Titans et enfin l'emporter sur eux? Il posa cette question à Klément qui lui répondit calmement que ce serait trop dangereux pour l'humanité de montrer ce pouvoir en publique. Klément répondit aux restes des questions et ajouta qu'il connaitrait le reste plus tard si il le souhaité, par contre il instaura la condition suivante, il ne devait en parler à personne en dehors de la famille, sinon de graves répercussions pourraient avoir lieux pour l'humanité. Après ces évenements, Les Klaussmann s'installèrent avec les Vurst, Clémence se marria avec Thomas et quelques années plus tard, Trystan était né.</p>
     <h3><strong>Partie 2 : Thomas Vurst</strong></h3>
-    <p>En l'an 834, soit 2 ans après la naissance de Trystan, Thomas commencé à ce poser des questions, il venait d'apprendre que le longévité d'une personne détenant un Titan était de 7 ans, et de plus, il venait d'apprendre que la <a href="https://docs.google.com/document/d/1gFXu4sTjWoni_PeYWp0GF5QPrN7m1ojpffFn_bUsRCE/edit?usp=sharing" target="_blank">Branche secondaire</a> venait de perdre leurs dernier enfant (Il est mort d'une maladie inconnue), et donc que l'Assaillant devait être transmis à la branche principal. </p>
+    <p>En l'an 836, soit 2 ans après la naissance de Trystan, Thomas commencé à ce poser des questions, il venait d'apprendre que le longévité d'une personne détenant un Titan était de 7 ans, et de plus, il venait d'apprendre que la <a href="https://docs.google.com/document/d/1gFXu4sTjWoni_PeYWp0GF5QPrN7m1ojpffFn_bUsRCE/edit?usp=sharing" target="_blank">Branche secondaire</a> venait de perdre leurs dernier enfant (Il est mort d'une maladie inconnue), et donc que l'Assaillant devait être transmis à la branche principal. </p>
     <div class="flex-box">
         <button onclick="PageSuivante(4)">Page Suivante</button>
     </div>  
     `,
-    ``,
+    `<p>Après avoir vu ces souvenirs, il parla directement à Clémence, lui révélant tout ce qu'il a pu voir et ce que signifiait cette vision, Clémence, qui avait pourtant l'habitude d'être toujours souriante, paru avec la mine déconfite, elle savait dorénavant que son fils mourrait tôt et elle dût l'accepter, cela lui aura pris au moins 1 an.</p><br><br>
+    <p>Lorsqu'on arriva à l'an 847, Trystan venait d'avoir 13 ans et annonça qu'il voulait partir maintenant rejoindre l'armée. Ses deux parents, finirent par accepter ( Ils ont accepter car ils savaient qu'il irait grâce à la vision de Thomas ). Et Alors que Trystan était entrain de préparer ses affaires, Thomas prépara un sac avec une fiole de liquide cérébraux-spinal, une piqure ainsi qu'une bague. Il fit d'ailleurs ses derniers adieux à ses parents et à Clémence, puis d'un coup, il eut une nouvelle bride de mémoire de Trystan, après avoir vu celle*ci, il comprit que leurs secret serait vite trouvé, il informa donc la nouvelle à ses parents et à Clémence et leurs demanda de brûler tout les documents importants.</p>
+    <div class="flex-box">
+        <button onclick="PageSuivante(5)">Page Suivante</button>
+    </div>
+    `,
+    `
+    
+    `,
 ];
 
 

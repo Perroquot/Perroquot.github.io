@@ -8,7 +8,7 @@ content_page1 = [
     `,
     `
     <h3><strong>Chapitre 3 : Le grand départ</strong></h3>
-    <div class="p-special2"><p>Trystan venait d'atteindre la barre des 12 ans soit l'âge requis pour rejoindre l'armée et il décida donc de prévenir ses parents de son choix final il ne voulait pas détourner de son objectif, le bataillon d'exploration était sa priorité. Le soir, pendant le diner, il se leva et annonça la nouvelle à ses parents. Leurs réactions mirent du temps à arriver, loin d'être étonnant, ils savaient depuis longtemps qu'il souhaitait rejoindre le bataillon, et force d'avoir tenter de le raisonner, en vain, ils avaient fini par accepter, cependant, sa mère lui demanda une condition afin qu'elle accepte sa demande, si Trystan arrivait dans le top 10 de sa promotion et donc qu'il avait la possibilité de rejoindre les brigades Spéciales, il devrait rejoindre ce régiment. Au bout de plusieurs minutes de réflexion, Trystan accepta la conditions et il partit directement préparer ses affaires.</p></div>    
+    <div class="p-special2"><p>Trystan venait d'atteindre la barre des 13 ans soit l'âge requis pour rejoindre l'armée et il décida donc de prévenir ses parents de son choix final il ne voulait pas détourner de son objectif, le bataillon d'exploration était sa priorité. Le soir, pendant le diner, il se leva et annonça la nouvelle à ses parents. Leurs réactions mirent du temps à arriver, loin d'être étonnant, ils savaient depuis longtemps qu'il souhaitait rejoindre le bataillon, et force d'avoir tenter de le raisonner, en vain, ils avaient fini par accepter, cependant, sa mère lui demanda une condition afin qu'elle accepte sa demande, si Trystan arrivait dans le top 10 de sa promotion et donc qu'il avait la possibilité de rejoindre les brigades Spéciales, il devrait rejoindre ce régiment. Au bout de plusieurs minutes de réflexion, Trystan accepta la conditions et il partit se coucher en pensant au départ.</p></div>    
         <button onclick="PageSuivante(2)">Page Précedente</button>
     </div>
     `,
@@ -24,7 +24,7 @@ content_page2 = [
     </div>
     `,
     `
-    <p class="p-special50"> Pendant qu'il était entrain de les préparer, son père toqua à sa porte et lui demanda de le suivre, la suite, il ne s'en souviendra pas. <a href="/spinoff.html">(Voir le spin-off)</a> </p>
+    <p class="p-special50">Le lendemain matin, pendant qu'il était entrain de les préparer, son père toqua à sa porte et lui demanda de le suivre, la suite, il ne s'en souviendra pas. <a href="/spinoff.html">(Voir le spin-off)</a> </p>
     
     <p>Trystan se reveilla doucement, du au fait qu'il avait l'impression de bouger dans tout les sens, une fois les yeux complétement ouvert, il remarqua qu'il était dans une charette, hors, il ne se rappel pas avoir monté dans une charette, en fait, il ne se rappel plus de rien depuis hier soir, le seul truc dont il se rappelait, c'était d'avoir suivi don père après qu'il eut appelé. Trystan mis la tête en dehors de la charrette et remarqua au loin le district de Shiganshina. L'aventure allait enfin pouvoir commencé...</p></br>
     <div class="plan-shiganshina"><center><video preload="true" autoplay="" muted="" loop="" playsinline="" poster="./assets/img/bg5.png" data-testid="space:video"><source src="./assets/img/videotrystan1.mp4" type="video/mp4"></video></div></center>
