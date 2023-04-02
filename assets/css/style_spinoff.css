@@ -820,3 +820,11 @@ a{
 .dialogue{
     font-style: italic;
 }
+
+.pickouze img{
+    width: 70%;
+}
+.pickouze{
+    display: flex;
+    justify-content: center;
+}

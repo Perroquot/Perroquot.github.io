@@ -16,8 +16,8 @@ content_page1 = [
     <button onclick="PageSuivante(3)">Page Précedente</button>
     `,
     `
-    <p>Test</p>
-    <button onclick="PageSuivante(3)">Page Précedente</button>
+    <p>Il ira après cela dans la chambre de Trystan et lui demanda de l'accompagner, Trystan le suivit sans poser de questions. Ils montèrent dans une charrette et allèrent vers la montagne ou réside la branche secondaire. Une fois arrivé, ils gravirent la montagne jusqu'a entrer dans une forêt et enfin dans cette forêt, une petite clairière ou se trouvait déjà 3 personnes ( Des membres de la branche secondaire ). Thomas ouvrit son sac et sortit la seringue et la remplit de liquide cérébro-spinale, puis se tourna vers Trystan, des larmes commençant à apparaitre sur son visage. Trystan demanda pourquoi son père était entrain de pleurer quand d'un coup, Thomas attrapa Trystan et le colla contre un arbre, Trystan paniqua et commença à se débattre mais Thomas avait beaucoup trop de force comparé à lui. Avant de piquer son fils, il lui adressa une dernière parole :</p><br><div class="dialogue">"Ecoute moi bien mon fils, je ne peux pas tout t'expliquer car au final tu va oublier, mais j'aimerais que tu n'oublie pas une chose de ce que je vais te dire, quand le moment sera venu, rend toi à cet endroit, trouve la carte qui mène à l'ancien sanctuaire, et découvre la vérité."</div>
+    <button onclick="PageSuivante(4)">Page Précedente</button>
     `,
 ];
 content_page2 = [
@@ -37,13 +37,17 @@ content_page2 = [
     </div>  
     `,
     `<p>Après avoir vu ces souvenirs, il parla directement à Clémence, lui révélant tout ce qu'il a pu voir et ce que signifiait cette vision, Clémence, qui avait pourtant l'habitude d'être toujours souriante, paru avec la mine déconfite, elle savait dorénavant que son fils mourrait tôt et elle dût l'accepter, cela lui aura pris au moins 1 an.</p><br><br>
-    <p>Lorsqu'on arriva à l'an 847, Trystan venait d'avoir 13 ans et annonça qu'il voulait partir maintenant rejoindre l'armée. Ses deux parents, finirent par accepter ( Ils ont accepter car ils savaient qu'il irait grâce à la vision de Thomas ). Et Alors que Trystan était entrain de préparer ses affaires, Thomas prépara un sac avec une fiole de liquide cérébraux-spinal, une piqure ainsi qu'une bague. Il fit d'ailleurs ses derniers adieux à ses parents et à Clémence, puis d'un coup, il eut une nouvelle bride de mémoire de Trystan, après avoir vu celle*ci, il comprit que leurs secret serait vite trouvé, il informa donc la nouvelle à ses parents et à Clémence et leurs demanda de brûler tout les documents importants.</p>
+    <p>Lorsqu'on arriva à l'an 847, Trystan venait d'avoir 13 ans et annonça qu'il voulait partir maintenant rejoindre l'armée. Ses deux parents, finirent par accepter ( Ils ont accepter car ils savaient qu'il irait grâce à la vision de Thomas ). Et Alors que Trystan était entrain de préparer ses affaires très tôt (5h du matin), Thomas prépara un sac avec une fiole de liquide cérébraux-spinal, une piqure ainsi qu'une bague. Il fit d'ailleurs ses derniers adieux à ses parents et à Clémence, puis d'un coup, il eut une nouvelle bride de mémoire de Trystan, après avoir vu celle ci, il comprit que leurs secret serait vite trouvé, il informa donc la nouvelle à ses parents et à Clémence et leurs demanda de brûler tout les documents importants.</p>
     <div class="flex-box">
         <button onclick="PageSuivante(5)">Page Suivante</button>
     </div>
     `,
     `
-    
+    <div class="dialogue">"J'ai confiance en toi mon fils, et surtout ne te fie à personne, ce monde est trop dangereux pour pour que tu puisses accorder ta confiance à n'importe qui. Je te souhaite bon courage pour la suite, ta mère et moi sommes très fier de toi et on sera toujours à tes côtés quoi qu'il arrive."</div><br>
+    <p>A cet instant il piqua son fils qui se transfoma juste après en petit titan qui se jeta directement sur son père et le dévora... Juste après cela, le petit titan s'éffondra et Trystan ressortit de la nuque du Titan, les trois membres de la branche secondaire qui s'était caché pendant la transmission, receuillit Trystan et l'amenèrent à une charette Taxi qui allait partir en direction de Shiganshina, ils avaient pris soins de mettre la bague sur une chaine et de la mettre autour du cou de Trystan. La charrette partit donc vers le district, amenant le nouvel espoir de l'humanité, ou bien son bourreau.</p>
+    <div class="pickouze">
+    <img src="/assets/img/enmodepickouze.png">
+    </div>
     `,
 ];
 
