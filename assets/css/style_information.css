@@ -1,3 +1,18 @@
+@font-face {
+    font-family: 'SNK';
+    src: url("/assets/font/AlphabetSNK.ttf") format("truetype");
+}
+
+.InfoHRP{
+    font-family: 'SNK';
+    color: color;
+    font-size: 30px;
+    letter-spacing: 8px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: -3vh;
+}
+
 body{
     font-family: sans-serif;
     margin: 0;
