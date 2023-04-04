@@ -5,7 +5,7 @@
 
 @font-face {
     font-family: 'Metropolis';
-    src: url("/font/Metropolis-Regular.otf") format("opentype");
+    src: url("/assets/font/Metropolis-Regular.otf") format("opentype");
 }
 
 .InfoHRP{
@@ -15,7 +15,7 @@
     letter-spacing: 8px;
     display: flex;
     justify-content: center;
-    margin-bottom: 3vh;
+    margin-bottom: 1vh;
 }
 
 body{
@@ -38,7 +38,8 @@ video{
 }
 
 .container{
-    background-color: white;
+    background: #1d2630;
+    color: #eeeeee;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -48,9 +49,12 @@ video{
     border-width: 2vh;
     padding-right: 5vh;
     padding-left: 5vh;
+    line-height: 3vh;
+    border: 2px solid #267591;
+
 }
 .retour{
-    padding-top: 5vh;
+    padding-top: 2vh;
     display: flex;
     justify-content: center;
 }
