@@ -30,3 +30,14 @@ video{
     height: 100%;
     width: 100%;
 }
+
+.container{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 100vh;
+    border-radius: 2vh;
+    border-width: 2vh;
+}
