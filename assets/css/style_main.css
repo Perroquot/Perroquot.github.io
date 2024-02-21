@@ -106,9 +106,15 @@ video
     height: 100%;
     width: 100%;
 }
-.music{
+.music {
     display: flex;
     justify-content: center;
     padding-bottom : 20px;
     position: sticky;
+    background: transparent;
+    /* opacity: 0.1; */
+}
+
+audio::-webkit-media-controls-panel {
+    background: transparent;
 }
